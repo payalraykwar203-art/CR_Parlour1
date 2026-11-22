@@ -1,0 +1,29 @@
+{
+  "name": "chanchal-beauty-parlour",
+  "version": "1.0.0",
+  "description": "Professional beauty parlour website featuring bridal mehndi, nail art, and makeup services",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/chanchal-beauty-parlour.git"
+  },
+  "keywords": [
+    "beauty-parlour",
+    "mehndi",
+    "nail-art",
+    "makeup",
+    "bridal",
+    "salon",
+    "website"
+  ],
+  "author": "Chanchal Beauty Parlour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/chanchal-beauty-parlour/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/chanchal-beauty-parlour#readme"
+}
